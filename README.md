@@ -11,7 +11,7 @@ Comments are written for all steps of the algorithm for better understanding the
 
 1) Please cite the following paper:
 
-A. Golzari Oskouei, M. A. Balafar, and C. Motamed, "EDCWRN: efficient deep clustering with the weight of representations and the help of neighbors," Applied Intelligence, 2022/07/05 2022, doi: 10.1007/s10489-022-03895-5. 
+A. Golzari Oskouei, M. A. Balafar, and C. Motamed, "EDCWRN: efficient deep clustering with the weight of representations and the help of neighbors," Applied Intelligence, 2022/07/05 2022, https:/doi: 10.1007/s10489-022-03895-5. 
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Amin Golzari Oskouei (First author).
 
